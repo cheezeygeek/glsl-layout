@@ -519,4 +519,9 @@ mod impl_bigger_arrays {
     impl_array!(254);
     impl_array!(255);
     impl_array!(256);
+    impl_array!(512);
+    impl_array!(1024);
+    impl_array!(2048);
+    impl_array!(8192);
+    impl_array!(16384);
 }
